@@ -1,21 +1,14 @@
 
 # Saugaat Allabadi
 A software engineer, open source creator, writer, and former procrastinator.
-Always writing and documenting what I learn at [saugaatallabadi.com](https://www.saugaatallabadi.com/).
-
-<hr>
-
-## GitHub Stats
-
-![Saugaat Allabadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saugaatallabadi&show_icons=&private_count=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saugaatallabadi&layout=compact)]()
+Always writing and documenting what I learn at <br /> 🚧 [URL UNDER CONSTRUCTION] 🚧
 
 <hr>
 
 ### Stay up to date
 
-- 📖 Want the _written_ guide to all my code? Check out [saugaatallabadi.com](https://saugaatallabadi.com).
+- 📖 Want the _behind the scenes_ journey to my code? Check out [my Twitter (X)](https://x.com/SaugaatAllabadi).
 
-- 📺 More of thing-watcher? I plan to make project videos [On YouTube](https://www.youtube.com/).
+- 📺 More of thing-watcher? I make project videos [on LinkedIn](https://www.linkedin.com/in/saugaatallabadi/).
 
 - 🏄🏻‍♂️ More of a surfer? Wow. Jealous.
